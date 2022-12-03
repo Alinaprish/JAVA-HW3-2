@@ -4,7 +4,8 @@ public class Main {
         int plus = 3000;
         int bonus;
 
-        if (plus > 1000) {bonus = plus / 100;
+        if (plus > 1000) {
+            bonus = plus / 100;
         } else {
             bonus = 0;
         }
